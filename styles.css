@@ -3,3 +3,15 @@
     padding: 0;
     font-family: "Inter", sans-serif;
 }
+
+.main-content {
+    border: 1px solid;
+}
+
+a {
+    text-decoration: none;
+}
+
+.details {
+    font-style: normal;
+}
