@@ -91,7 +91,6 @@ li:hover {
     background-color: var(--green);
     color: var(--grey-900);
     cursor: pointer;
-    caret-color: var(--grey-900);
 }
 
 li:hover a {
